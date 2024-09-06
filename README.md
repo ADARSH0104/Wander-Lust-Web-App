@@ -1,1 +1,1 @@
-# WanderLust-WEB-APP-Project
+# Wander-Lust-Web-App
