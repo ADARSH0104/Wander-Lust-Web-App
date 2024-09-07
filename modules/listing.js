@@ -46,7 +46,7 @@ const listingSchema=new Schema({
     },
     category:{
         type:String,
-        enum:["Trending","Rooms","City","Mountain","AmazingPools","Camp","Farm","Boat","Lakeview"]
+        enum:["Trending","Rooms","City","Mountain","AmazingPools","Camp","Beachfront","Farm","Boat","Lakeview"]
     }
 })
 listingSchema.post("findOneAndDelete",async(listing)=>{
