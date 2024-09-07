@@ -148,7 +148,10 @@ height: 25rem !important;
     opacity: 1;
     transform: scale(1.05); 
 }
-
+.filter:onclick { 
+    opacity: 1;
+    transform: scale(1.05); 
+}
 .filter i {
      font-size: 1.5rem;
      color: #333 !important; 
